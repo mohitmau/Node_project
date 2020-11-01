@@ -24,5 +24,5 @@ function switchLight(str){
 		default:
 			console.log('your switch is neither on nor off');
 	}
-}
+} 
 switchLight('on');
